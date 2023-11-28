@@ -6,11 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 email: test@test.com and password: password
 
 ## Available Scripts
-### `npm install`
-
-Install node modules
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install dependencies.
 
 ### `npm start`
 
